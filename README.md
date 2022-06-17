@@ -1,10 +1,13 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Up-and-coming playwright Louise Belcher intends to launch a Kickstarter to fund her play in the United States, *Fever*. She estimates a budget of over $10,000. 
 
 ### Purpose
+The purpose of this project is to analyze other crowdfunding data, specifically within the United States and the theater industry. This analysis will determine factors that make for a successful crowdfunding campaign and help Louise Kickstart her own project successfully. 
 
 ## Analysis and Challenges
+
 
 ### Analysis of Outcomes Based on Launch Date
 
