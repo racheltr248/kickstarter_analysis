@@ -19,7 +19,8 @@ Of the theater projects that have been submitted for crowdfunding, plays have be
 ![This chart shows a comparison of the different subcategories of theater projects that have been submitted for Kickstarters in the United States](Subcategory_Outcomes_Within_Theater_US.png)
 
 ### Analysis of Outcomes Based on Launch Date
-
+Another important step of the data analysis was to determine the best time for Louise to launch her Kickstarter. According to the data, the most successful months for launching Kickstarters have been May and June, while the least successful are December, January, and March. 
+![This chart shows a comparison of the most successful theater Kickstarter launches by month](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
