@@ -4,7 +4,7 @@
 Up-and-coming playwright Louise Belcher intends to launch a Kickstarter to fund her play in the United States, *Fever*. She estimates a budget of over $10,000. 
 
 ### Purpose
-The purpose of this project is to analyze other crowdfunding data, specifically within the United States and the theater industry. This analysis will determine factors that make for a successful crowdfunding campaign and help Louise Kickstart her own project successfully. 
+The purpose of this project was to analyze other crowdfunding data, specifically within the United States and the theater industry. This analysis will determine factors that make for a successful crowdfunding campaign and help Louise Kickstart her own project successfully. 
 
 ## Analysis and Challenges
 To begin the analysis, I gathered data from over 4,000 Kickstarter projects. The projects ranged in categories, locations, goals, launch dates, and outcomes. The data was represented in a variety of forms, including text, numerical, and unconverted UNIX dates. 
@@ -15,7 +15,8 @@ The data analysis provided useful information that can aid Louise in achieving h
 
 ![This chart shows a comparison of the different parent categories of Kickstarters in the United States](Parent_Category_Outcomes_US.png)
 
-
+Of the theater projects that have been submitted for crowdfunding, plays have been both the most popular and the most successful. 
+![This chart shows a comparison of the different subcategories of theater projects that have been submitted for Kickstarters in the United States](Subcategory_Outcomes_Within_Theater_US.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
