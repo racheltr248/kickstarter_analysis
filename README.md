@@ -23,6 +23,8 @@ Another important step of the data analysis was to determine the best time for L
 ![This chart shows a comparison of the most successful theater Kickstarter launches by month](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+Since Louise estimated a budget of over $10,000, I checked to see the rate at which Kickstarters are funded based on goals. Perhaps unsurprisingly, Kickstarters with lower goals are more readily funded. 
+![This chart shows a comparison of the most successful play Kickstarters by goal](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
