@@ -27,13 +27,23 @@ Since Louise estimated a budget of over $10,000, I checked to see the rate at wh
 ![This chart shows a comparison of the most successful play Kickstarters by goal](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+This dataset did not present too many difficulties, although thinking through some of the conditional language was a bit challenging. The biggest difficulty I face right now is that I have never had formal statistics training, so I am attempting to wrap my head around that, as well. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1 The best months to launch Kickstarters are May and June
+2 The worst months to launch Kickstarters are December, January, and March
 
 - What can you conclude about the Outcomes based on Goals?
+The lower your goal, the more likely it is to be funded. The sweet spot is between $1000-$4999, which has a 73% likelihood of being funded. 
 
 - What are some limitations of this dataset?
+1 This dataset runs between 2011-2017, which means it is only a five-year time range
+2 Country is listed with a 2-letter code, so it is possible that not all of the entries would clearly understandable to everyone without conversion
+3 Deeper granularity of backer information could be useful
 
 - What are some other possible tables and/or graphs that we could create?
+1 Percentage of theater projects funded vs unfunded
+2 Best location for funding similar projects
+3 Deadline comparison
