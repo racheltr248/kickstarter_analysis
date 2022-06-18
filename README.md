@@ -13,21 +13,21 @@ First, I needed to create some additional columns for subcategory of projects so
 
 The data analysis provided useful information that can aid Louise in achieving her goals. Based on parent category outcomes, Kickstarters in support of theater are very popular, far exceeding other kinds of Kickstarters. 
 
-![This chart shows a comparison of the different parent categories of Kickstarters in the United States](Parent_Category_Outcomes_US.png)
+![This chart shows a comparison of the different parent categories of Kickstarters in the United States](/Resources/Parent_Category_Outcomes_US.png)
 
 Of the theater projects that have been submitted for crowdfunding, plays have been both the most popular and the most successful. 
-![This chart shows a comparison of the different subcategories of theater projects that have been submitted for Kickstarters in the United States](Subcategory_Outcomes_Within_Theater_US.png)
+![This chart shows a comparison of the different subcategories of theater projects that have been submitted for Kickstarters in the United States](/Resources/Subcategory_Outcomes_Within_Theater_US.png)
 
 ### Analysis of Outcomes Based on Launch Date
 Another important step of the data analysis was to determine the best time for Louise to launch her Kickstarter. According to the data, the most successful months for launching Kickstarters have been May and June, while the least successful are December, January, and March. 
-![This chart shows a comparison of the most successful theater Kickstarter launches by month](Theater_Outcomes_vs_Launch.png)
+![This chart shows a comparison of the most successful theater Kickstarter launches by month](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Since Louise estimated a budget of over $10,000, I checked to see the rate at which Kickstarters are funded based on goals. Perhaps unsurprisingly, Kickstarters with lower goals are more readily funded. 
-![This chart shows a comparison of the most successful play Kickstarters by goal](Outcomes_vs_Goals.png)
+![This chart shows a comparison of the most successful play Kickstarters by goal](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-This dataset did not present too many difficulties, although thinking through some of the conditional language was a bit challenging. The biggest difficulty I face right now is that I have never had formal statistics training, so I am attempting to wrap my head around that, as well. 
+This dataset did not present too many difficulties, although thinking through some of the conditional language was a bit challenging. The biggest difficulty I face right now is that I have never had formal statistics training, so I am attempting to wrap my head around that, as well.
 
 ## Results
 
