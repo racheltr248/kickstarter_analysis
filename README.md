@@ -32,18 +32,18 @@ This dataset did not present too many difficulties, although thinking through so
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1 The best months to launch Kickstarters are May and June
-2 The worst months to launch Kickstarters are December, January, and March
+     1. The best months to launch Kickstarters are May and June
+     2. The worst months to launch Kickstarters are December, January, and March
 
 - What can you conclude about the Outcomes based on Goals?
-The lower your goal, the more likely it is to be funded. The sweet spot is between $1000-$4999, which has a 73% likelihood of being funded. 
+     - The lower your goal, the more likely it is to be funded. The sweet spot is between $1000-$4999, which has a 73% likelihood of being funded. 
 
 - What are some limitations of this dataset?
-1 This dataset runs between 2011-2017, which means it is only a five-year time range
-2 Country is listed with a 2-letter code, so it is possible that not all of the entries would clearly understandable to everyone without conversion
-3 Deeper granularity of backer information could be useful
+     1. This dataset runs between 2011-2017, which means it is only a five-year time range
+     2. Country is listed with a 2-letter code, so it is possible that not all of the entries would clearly understandable to everyone without conversion
+     3. Deeper granularity of backer information could be useful
 
 - What are some other possible tables and/or graphs that we could create?
-1 Percentage of theater projects funded vs unfunded
-2 Best location for funding similar projects
-3 Deadline comparison
+     1. Percentage of theater projects funded vs unfunded
+     2. Best location for funding similar projects
+     3. Deadline comparison
